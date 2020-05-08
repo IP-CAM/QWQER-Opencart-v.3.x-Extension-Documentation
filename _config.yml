@@ -1,0 +1,12 @@
+repository: ipaydevteam/ipaydevteam.github.io
+
+theme: jekyll-theme-cayman
+
+title: QWQER For OpenCart
+description: QWQER Delivery - OpenCart Extension
+
+show_downloads: true
+
+github:
+  is_project_page: false
+  zip_url: https://github.com/IPayDevTeam/QWQER-OpenCart-Extension-Documentation/raw/master/extensions/qwqer-opencart-v3.x.ocmod.zip
